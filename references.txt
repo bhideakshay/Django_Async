@@ -1,0 +1,23 @@
+# Async task in django with celery
+1. https://realpython.com/asynchronous-tasks-with-django-and-celery/
+
+# The Missing How-to for Celery Logging
+1. https://siddharth-pant.medium.com/the-missing-how-to-for-celery-logging-85e21f0231de
+
+# The Missing How-to for Django Logging
+1. https://siddharth-pant.medium.com/the-only-concise-guide-to-django-logging-e0a305ddbf52
+
+# Push Notifications in Django
+1. https://medium.com/scalereal/push-notifications-through-django-db528c303b91
+
+# Add monitoring tool Prometheus to django app(Setup)
+https://medium.com/@manzurulhoquerumi/add-montoring-tools-prometheus-to-django-app-setup-cf8d471e96ef
+
+# Creating a Hospital Appointment Management System with Django
+https://medium.com/@johnthuo/creating-a-hospital-management-system-with-django-f8dff2ffcc98
+
+# Unlock django super powers with Django Extensions
+https://umesschaudhary.medium.com/unlock-django-super-powers-with-django-extensions-51c3db4addaa
+
+# Django Chat App
+https://justdjango.com/blog/chat-app-django-channels
